@@ -1,7 +1,7 @@
 package uscs;
 
 public class Curso {
-    private int num;
-    private String nome;
-    private int semestres;
+    private int cod_curso;
+    private String desc_curso;
+    private int duracao_semestre;
 }
